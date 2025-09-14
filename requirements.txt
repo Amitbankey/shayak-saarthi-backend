@@ -4,4 +4,4 @@ pydantic==1.10.11
 python-dotenv==1.0.0
 requests==2.31.0
 databases==0.7.0
-sqlalchemy==1.4.57
+sqlalchemy==1.4.54
